@@ -1,0 +1,68 @@
+body {
+  background: url('../images/2014-04-03\ 07.12.38.jpg');
+  background-size: 100%;
+  background-position: center;
+  background-attachment: fixed;
+  font-family: 'Lato', sans-serif;
+}
+
+/*----------------------------------------------------------------------------- 
+=MAIN STYLES  
+-----------------------------------------------------------------------------*/
+
+/*
+NAVBAR STYLES 
+*/
+
+header {
+	margin: 0 auto;
+}
+
+ul {
+	list-style: none;
+}
+
+header li {
+	float: left;
+	text-decoration: none;
+	margin: 10px;
+}
+
+.container {
+	margin: 0 auto;
+}
+
+a {
+	text-decoration: none;
+}
+
+#landing-nav-menu {
+	margin-bottom: 0;
+}
+
+/*
+MAIN CONTENT STYLES
+*/
+
+.about-me-container {
+  width: 500px;
+  margin: 40px;
+  background: rgba(0,0,0,0.5);
+  padding: 10px;
+  color: white;
+}
+
+h1 {
+	font-family: 'Rokkitt', serif;
+	font-size: 70px;
+	margin-bottom: 0px;
+}
+
+
+/*
+FOOTER STYLES
+*/
+
+footer {
+	text-decoration: none;
+}
